@@ -1,2 +1,2 @@
-# 1-github-explorer
+# github-explorer
 The first project of Rockeseat Ignite's Class.
